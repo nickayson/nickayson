@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickayson
 - 👀 I’m interested in learning more about all programming languages
-- 🌱 I’m currently learning x86 assembly SQL and Java
+- 🌱 I’m currently learning more about algorithms and the basics of Security
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me School: nick.ayson@csu.fullerton.edu Personal: nick.ayson7@gmail.com
 
