@@ -4,6 +4,19 @@
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me School: nick.ayson@csu.fullerton.edu Personal: nick.ayson7@gmail.com
 
+Experience:
+-C++
+-C
+-Java 
+-x86 Assembly 
+-SQL Database
+-Javascript (now)
+-html(now)
+-python(now)
+-css(now)
+
+- on that leetcode grind lets go!!!
+
 
 - Currently in my 3rd year of Computer Science at Cal State Fullerton and have a 3.559 GPA
 - Estimated to Graduate in May 2023
