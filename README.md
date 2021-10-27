@@ -5,15 +5,17 @@
 - 📫 How to reach me School: nick.ayson@csu.fullerton.edu Personal: aysonnicholas@gmail.com
 
 Experience:
--C++
--C
--Java 
--x86 Assembly 
--SQL Database
--Javascript (now)
--html(now)
--python(now)
--css(now)
+-C++  
+-C  
+-Java   
+-x86 Assembly   
+-SQL Database  
+-Javascript (now)  
+-Node.js(now)  
+-React(now)  
+-html(now)  
+-python(now)  
+-css(now)  
 
 - on that leetcode grind lets go!!!
 
