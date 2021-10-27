@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me School: nick.ayson@csu.fullerton.edu Personal: aysonnicholas@gmail.com
 
-Experience:
+Experience:  
 -C++  
 -C  
 -Java   
