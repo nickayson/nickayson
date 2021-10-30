@@ -23,6 +23,8 @@ Experience:
 - Currently in my 3rd year of Computer Science at Cal State Fullerton and have a 3.559 GPA
 - Estimated to Graduate in May 2023
 
+-Starting Personal Projects In Winter! Hitting my Stride Now
+
 -![grab-landing-page](https://github.com/nickayson/nickayson/blob/main/download.jpg)
 
 Please Check out Titan Rover UI!  
