@@ -17,8 +17,8 @@ Experience:
 -python(now)  
 -css(now)  
 
-- on that leetcode grind lets go!!!
-
+- on that leetcode grind lets go!!!  
+- Also balancing school and personal projects  
 
 - Currently in my 3rd year of Computer Science at Cal State Fullerton and have a 3.559 GPA
 - Estimated to Graduate in May 2023
