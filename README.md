@@ -17,13 +17,13 @@ Experience:
 -python(now)  
 -css(now)  
 
-- on that leetcode grind lets go!!!  
-- Also balancing school and personal projects  
+- Focusing on internships I have now.  
+- Also balancing school and personal projects.  
 
 - Currently in my 3rd year of Computer Science at Cal State Fullerton and have a 3.559 GPA
 - Estimated to Graduate in May 2023
 
--Starting Personal Projects In Winter! Hitting my Stride Now
+- Starting Personal Projects In Winter!
 
 -![grab-landing-page](https://github.com/nickayson/nickayson/blob/main/download.jpg)
 
