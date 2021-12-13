@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nickayson
+- 👋 Hi, I’m Nicholas Ayson
 - 👀 I’m interested in learning more about all aspects of software development and their uses   
 - 🌱 I’m currently learning more about algorithms and the basics of computer security  
 - 💞️ I’m looking to collaborate on any projects
