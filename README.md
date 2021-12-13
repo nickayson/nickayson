@@ -17,7 +17,10 @@ Experience with:
 -python  
 -css 
 
-- Focusing on internships I have now.  
+- Focusing on internships I have now.
+- IT internship @ WNC & Associates  
+- Summer 2022 Technology Development Internship @ Optum Technologies  
+  
 - Also balancing school and personal projects.  
 
 - Currently in my 3rd year of Computer Science at Cal State Fullerton and have a 3.559 GPA
