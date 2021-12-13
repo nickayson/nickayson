@@ -1,21 +1,21 @@
 - 👋 Hi, I’m @nickayson
-- 👀 I’m interested in learning more about all programming languages
-- 🌱 I’m currently learning more about algorithms and the basics of Security
+- 👀 I’m interested in learning more about all aspects of software development and their uses   
+- 🌱 I’m currently learning more about algorithms and the basics of computer security  
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me School: nick.ayson@csu.fullerton.edu Personal: aysonnicholas@gmail.com
 
-Experience:  
+Experience with:  
 -C++  
 -C  
 -Java   
 -x86 Assembly   
 -SQL Database  
--Javascript (now)  
--Node.js(now)  
--React(now)  
--html(now)  
--python(now)  
--css(now)  
+-Javascript  
+-Node.js  
+-React  
+-html 
+-python  
+-css 
 
 - Focusing on internships I have now.  
 - Also balancing school and personal projects.  
@@ -23,7 +23,7 @@ Experience:
 - Currently in my 3rd year of Computer Science at Cal State Fullerton and have a 3.559 GPA
 - Estimated to Graduate in May 2023
 
-- Starting Personal Projects In Winter!
+- Starting more personal projects in Winter 2022!
 
 -![grab-landing-page](https://github.com/nickayson/nickayson/blob/main/download.jpg)
 
