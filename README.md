@@ -13,7 +13,7 @@ Experience with:
 -Javascript  
 -Node.js  
 -React  
--html 
+-html  
 -python  
 -css 
 
