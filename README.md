@@ -23,7 +23,7 @@ Experience with:
 
 - Also balancing school and personal projects.  
 
-- Currently in my 3rd year of Computer Science at Cal State Fullerton and have a 3.559 GPA
+- Currently in my 3rd year of Computer Science at Cal State Fullerton and have a total 3.54 GPA and a academic GPA of 3.56
 - Estimated to Graduate in May 2023
 
 - Starting more personal projects in Winter 2022!
