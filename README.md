@@ -13,9 +13,10 @@ Experience with:
 -Javascript  
 -Node.js  
 -React  
--html  
+-Html  
 -Python  
--css 
+-Css
+-Visual Basic for Applications
 
 - Focusing on internships I have now.
 - IT internship @ WNC & Associates  
