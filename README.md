@@ -14,7 +14,7 @@ Experience with:
 -Node.js  
 -React  
 -html  
--python  
+-Python  
 -css 
 
 - Focusing on internships I have now.
