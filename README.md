@@ -15,7 +15,7 @@ Experience with:
 -React  
 -Html  
 -Python  
--Css
+-Css  
 -Visual Basic for Applications
 
 - Focusing on internships I have now.
