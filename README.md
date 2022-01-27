@@ -27,7 +27,7 @@ Experience with:
 - Currently in my 3rd year of Computer Science at Cal State Fullerton and have a total 3.54 GPA and a academic GPA of 3.56
 - Estimated to Graduate in May 2023
 
-- Starting more personal projects in Winter 2022!
+- Starting more personal projects in the near future!
 
 -![grab-landing-page](https://github.com/nickayson/nickayson/blob/main/download.jpg)
 
