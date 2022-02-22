@@ -9,7 +9,7 @@ Experience with:
 -C  
 -Java   
 -x86 Assembly   
--SQL
+-SQL  
 -Javascript  
 -Node.js  
 -React  
