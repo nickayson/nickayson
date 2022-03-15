@@ -20,7 +20,8 @@ Experience with:
 - Visual Basic for Applications
 - x86 Assembly  
 
-[![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickayson&show_icons=true&theme=radical)](https://github.com/nickayson/github-readme-stats)
+[![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickayson&show_icons=true&theme=radical)](https://github.com/nickayson/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickayson&layout=compact&show_icons=true&theme=radical)](https://github.com/nickayson/github-readme-stats)
+
 
 Focusing on internships I have now:
 - IT internship @ WNC & Associates Ends March 31st, 2022  
