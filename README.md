@@ -5,29 +5,31 @@
 - 📫 How to reach me School: nick.ayson@csu.fullerton.edu Personal: aysonnicholas@gmail.com
 
 Experience with:  
--C++  
--C  
--Java   
--x86 Assembly   
--SQL  
--Javascript  
--Node.js  
--React  
--Html  
--Python  
--Css  
--Visual Basic for Applications
+- C#
+- C++  
+- C  
+- Java  
+- Python   
+- SQL  
+- Javascript  
+- Node.js  
+- React  
+- Angular  
+- Html    
+- Css  
+- Visual Basic for Applications
+- x86 Assembly  
 
-- Focusing on internships I have now.
+Focusing on internships I have now:
 - IT internship @ WNC & Associates Ends March 31st, 2022  
 - Summer 2022 Technology Development Internship @ Optum Technologies Starts June 6th, 2022   
 
-- Also balancing school and personal projects.  
+Also balancing school and personal projects.  
 
-- Currently in my 3rd year of Computer Science at Cal State Fullerton and have a total 3.54 GPA and a academic GPA of 3.56
+Currently in my 3rd year of Computer Science at Cal State Fullerton and have a total 3.54 GPA and a academic GPA of 3.56
 - Estimated to Graduate in May 2023
 
-- Starting more personal projects in the near future!
+Starting more personal projects in the near future!
 
 -![grab-landing-page](https://github.com/nickayson/nickayson/blob/main/download.jpg)
 
