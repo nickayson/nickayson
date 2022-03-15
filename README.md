@@ -19,8 +19,8 @@ Experience with:
 -Visual Basic for Applications
 
 - Focusing on internships I have now.
-- IT internship @ WNC & Associates  
-- Summer 2022 Technology Development Internship @ Optum Technologies  
+- IT internship @ WNC & Associates Ends March 31st, 2022  
+- Summer 2022 Technology Development Internship @ Optum Technologies Starts June 6th, 2022   
 
 - Also balancing school and personal projects.  
 
