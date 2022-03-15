@@ -39,7 +39,6 @@ Starting more personal projects in the near future!
 Please Check out Titan Rover UI!  
 https://controls.titanrover.com/
 
-curl https://api.github.com/legacy/repos/search/Go?language=Go
 
 <!---
 nickayson/nickayson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
