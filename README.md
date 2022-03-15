@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicholas Ayson
-- 👀 I’m interested in learning more about all aspects of software development and their uses   
-- 🌱 I’m currently learning more about software engineering and compilers  
+- 👀 I’m interested in learning more about all aspects of software development and their applications in the real world  
+- 🌱 I’m currently learning more about software engineering concepts and how to create a custom compiler  
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me School: nick.ayson@csu.fullerton.edu Personal: aysonnicholas@gmail.com
 
