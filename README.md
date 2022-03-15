@@ -31,7 +31,7 @@ Currently in my 3rd year of Computer Science at Cal State Fullerton and have a t
 
 Starting more personal projects in the near future!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickayson&langs_count=8)](https://github.com/nickayson/github-readme-stats)
 
 -![grab-landing-page](https://github.com/nickayson/nickayson/blob/main/download.jpg)
 
