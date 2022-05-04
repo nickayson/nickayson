@@ -34,7 +34,7 @@ Currently in my 3rd year of Computer Science at Cal State Fullerton and have a t
 
 Starting more personal projects in the near future!  
 
--![grab-landing-page](https://github.com/nickayson/nickayson/blob/main/download.jpg)
+![grab-landing-page](https://github.com/nickayson/nickayson/blob/main/download.jpg)
 
 Please Check out Titan Rover UI!  
 https://controls.titanrover.com/
