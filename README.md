@@ -19,6 +19,9 @@ Experience with:
 - Css  
 - Visual Basic for Applications
 - x86 Assembly  
+- Hibernate
+- Spring Data JPA
+- JDBC
 
 [![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickayson&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickayson&langs_count=15&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
