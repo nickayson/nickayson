@@ -23,9 +23,9 @@ Experience with:
 [![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickayson&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickayson&langs_count=15&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Focusing on internships I have now:
 - IT internship @ WNC & Associates Ends March 31st, 2022  
-- Summer 2022 Technology Development Internship @ Optum Technologies Starts June 6th, 2022   
+- Summer 2022 Technology Development Internship @ Optum/UnitedHealth Group
+- Technology Development Program Software Engineering Associate @ Optum/UnitedHealth Group Start on July 17th 2023
 
 Also balancing school and personal projects.  
 
