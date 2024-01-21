@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about all aspects of software development and their applications in the real world  
 - 🌱 I’m currently learning more about software engineering as an associate at UHG UnitedHealthGroup
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me School: nick.ayson@csu.fullerton.edu Personal: aysonnicholas@gmail.com
+- 📫 How to reach me Personal: aysonnicholas@gmail.com
 
 Experience with:  
 - C#
